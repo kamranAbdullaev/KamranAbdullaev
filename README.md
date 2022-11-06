@@ -16,7 +16,7 @@
 ### :fire: My Stats :
 
 ---
-<div align="center">
+<div align="center" height="48" width="48">
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KamranAbdullaev&theme=Javascript-dark&border_radius=10)](https://git.io/streak-stats)
  
