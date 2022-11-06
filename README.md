@@ -1,9 +1,5 @@
-  <style>
-    .h1{
-      color:#fff;
-    }
-  </style>
-  <h1 class="h1">My stack</h1>
+
+  <h1 color="red">My stack</h1>
 <div>
 <img src="https://img.shields.io/badge/HTML5-black ?style=for-the-badge&logo=HTML5&logoColor=ЦВЕТ ЛОГОТИПА"/>
 <img src="https://img.shields.io/badge/CSS3-black ?style=for-the-badge&logo=CSS3&logoColor=ЦВЕТ ЛОГОТИПА"/>
