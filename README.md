@@ -1,5 +1,5 @@
  <h1>My stack</h1>
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/HTML5-black ?style=for-the-badge&logo=HTML5&logoColor=ЦВЕТ ЛОГОТИПА"/>
 <img src="https://img.shields.io/badge/CSS3-black ?style=for-the-badge&logo=CSS3&logoColor=ЦВЕТ ЛОГОТИПА"/>
 <img src="https://img.shields.io/badge/Sass-black ?style=for-the-badge&logo=Sass&logoColor=ЦВЕТ ЛОГОТИПА"/>
@@ -16,7 +16,7 @@
 ### :fire: My Stats :
 
 ---
-<div align="center" height="48" width="48">
+<div align="center">
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KamranAbdullaev&theme=Javascript-dark&border_radius=10)](https://git.io/streak-stats)
  
