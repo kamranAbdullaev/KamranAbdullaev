@@ -12,4 +12,6 @@
 </div>
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KamranAbdullaev&theme=dark&border_radius=20&stroke=DD2727)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KamranAbdullaev&theme=Javascript-dark&border_radius=10)](https://git.io/streak-stats)
