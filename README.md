@@ -1,4 +1,4 @@
-<h1>Hi👋, My name is Kamran</h1>
+<h1 align="center">Hi👋, My name is Kamran</h1>
 <h3>My stack</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-black ?style=for-the-badge&logo=HTML5&logoColor=ЦВЕТ ЛОГОТИПА"/>
