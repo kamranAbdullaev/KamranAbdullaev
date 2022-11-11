@@ -1,4 +1,5 @@
 <h1 align="center">Hi👋, My name is Kamran</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+front-end+developer)](https://git.io/typing-svg)
 <h3>My stack</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-black ?style=for-the-badge&logo=HTML5&logoColor=ЦВЕТ ЛОГОТИПА"/>
