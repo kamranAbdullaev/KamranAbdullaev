@@ -41,3 +41,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamranAbdullaev&theme=onedark&langs_count=4&layout=compact)](https://github.com/KamranAbdullaev)
  
  <div>
+  
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
