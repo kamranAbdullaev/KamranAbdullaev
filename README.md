@@ -36,11 +36,7 @@
 </div>
 
 
-<div align="center">
- 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KamranAbdullaev&theme=solarized_dark)
- 
- <div>
+
   
   
 
