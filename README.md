@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, My name is Kamran</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+front-end+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=I'm+front-end+developer)](https://git.io/typing-svg)
 
 <h3>My stack</h2>
 <div align="center">
