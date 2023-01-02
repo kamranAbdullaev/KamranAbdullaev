@@ -27,13 +27,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranAbdullaev&layout=compact&theme=transparent" alt="Top Langs"></a>
-</div>
-
-
----
 <div align='center'>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamranAbdullaev&langs_count=8&show_icons=true&theme=cobalt)
