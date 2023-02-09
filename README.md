@@ -27,7 +27,7 @@
 </div>
 
 ## My 2022 Contributions
-<a href="https://skyline.github.com/kamranabdullaev/2022" target="_blank"><img src="https://github.com/avinmaster/avinmaster/blob/main/Screenshot%202023-01-14%20191514.png" alt="My skyline"></a>
+<a href="https://skyline.github.com/kamranabdullaev/2022" target="_blank"><img src="https://github.com/kamranAbdullaev/KamranAbdullaev/blob/main/photo_2023-02-09_05-11-48.jpg" alt="My skyline"></a>
 
 
 
