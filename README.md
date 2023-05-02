@@ -30,6 +30,7 @@
 <a href="https://skyline.github.com/kamranabdullaev/2022" target="_blank"><img src="https://github.com/kamranAbdullaev/KamranAbdullaev/blob/main/photo_2023-02-09_05-11-48.jpg" alt="My skyline" border-radius=20%></a>
 
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Kamran's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=kamranAbdullaev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
