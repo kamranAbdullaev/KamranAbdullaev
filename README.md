@@ -26,7 +26,7 @@
  
 </div>
 <div>
-[![Kamran's GitHub stats](https://github-readme-stats.vercel.app/apikamranAbdullaev=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamranAbdullaev)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## My 2022 Contributions
