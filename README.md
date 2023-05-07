@@ -26,9 +26,6 @@
  
 </div>
 
-<div>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamranAbdullaev)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 ## My 2022 Contributions
 <a href="https://skyline.github.com/kamranabdullaev/2022" target="_blank"><img src="https://github.com/kamranAbdullaev/KamranAbdullaev/blob/main/photo_2023-02-09_05-11-48.jpg" alt="My skyline" border-radius=20%></a>
