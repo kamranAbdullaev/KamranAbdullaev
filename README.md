@@ -19,7 +19,8 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/kamranAbdullaev/kamranAbdullaev/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/kamranAbdullaev/KamranAbdullaev/output/snake.svg)
+
 
 ## 📊 GitHub Статистика
 <p align="center">
