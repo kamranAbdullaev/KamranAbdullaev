@@ -56,10 +56,13 @@
 
 ## 💡 Цитата дня
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=✨+Сложное+сделать+простым+—+вот+настоящее+искусство." 
+    alt="quote typing" 
+  />
 </p>
 
-<p align="center">— ✒️ Анонимус</p>
+<p align="center">— Анонимус</p>
 
 ---
 
