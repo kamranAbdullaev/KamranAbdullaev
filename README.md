@@ -10,17 +10,6 @@
 
 ---
 
-<!-- Typing эффект -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Мой+Стек;🚀+Full-Stack+Developer;⚡+React+%7C+Redux+%7C+Node.js+%7C+Real-time+Apps;🎨+Люблю+чистый+и+красивый+код" />
-</p>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVhMG1tM2YzYzhoMmJtcnRzNXRnZjlpZWxxc2Q2ZjE2ZTAxOHV0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="300"/>
-</p>
-
----
-
 ## ⚡ Технологический стек
 ![React](https://img.shields.io/badge/React-18-00F7FF?style=for-the-badge&logo=react&logoColor=00F7FF&labelColor=0D1117)
 ![Redux](https://img.shields.io/badge/Redux-Toolkit-9B59B6?style=for-the-badge&logo=redux&logoColor=white&labelColor=0D1117)
@@ -30,17 +19,7 @@
 
 ---
 
-## 🌀 Немного анимации
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="coding gif" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif" />
-</p>
-
----
+![Snake animation](https://raw.githubusercontent.com/kamranAbdullaev/kamranAbdullaev/output/github-contribution-grid-snake.svg)
 
 ## 📊 GitHub Статистика
 <p align="center">
@@ -57,7 +36,7 @@
 ## 💡 Цитата дня
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=✨+Сложное+сделать+простым+—+вот+настоящее+искусство." 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Вы+доверяете+системе?+Значит,+вы+уже+проиграли." 
     alt="quote typing" 
   />
 </p>
