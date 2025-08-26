@@ -13,6 +13,19 @@
 </p>
 
 
+
+
+## 🏃‍♂️ Немного веселья
+
+<p align="center">
+  <!-- Бегущий человечек -->
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150"/>
+  <!-- Летающая птица -->
+  <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="150"/>
+  <!-- Кодер за ноутом -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</p>
+
 ---
 
 ## 🛠 Технологии и Стек
