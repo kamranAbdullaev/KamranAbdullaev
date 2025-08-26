@@ -6,9 +6,9 @@
 <h3 align="center">💻 Full-Stack Developer | 🚀 React, Redux, Node.js | ⚡ Real-time Apps</h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&duration=2500&color=00F7FF&center=true&vCenter=true&repeat=true&width=720&lines=Создаю+современные+веб-приложения;Люблю+React+%2B+Redux+Toolkit;Node.js+%26+Socket.IO+всегда+в+деле;Учусь+и+развиваюсь+каждый+день!"
-    alt="Typing SVG"
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Привет,+я+Kamran;Full-Stack+Developer;React,+Redux,+Node.js;⚡+Real-time+Apps" 
+    alt="Typing SVG" 
   />
 </p>
 
