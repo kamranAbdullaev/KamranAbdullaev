@@ -56,8 +56,10 @@
 
 ## 💡 Цитата дня
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
 </p>
+
+<p align="center">— ✒️ Анонимус</p>
 
 ---
 
