@@ -18,16 +18,6 @@
 
 ---
 
-## 👾 Немного веселья
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120"/> <!-- бегущий человечек -->
-  <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="120"/> <!-- птица -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160"/> <!-- кодер -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180"/> <!-- матрица -->
-</p>
-
----
 
 ## ⚡ Технологический стек
 ![React](https://img.shields.io/badge/React-18-00F7FF?style=for-the-badge&logo=react&logoColor=00F7FF&labelColor=0D1117)
@@ -53,15 +43,6 @@
 ## 🐍 Змейка по коммитам
 <p align="center">
   <img src="https://github.com/kamranAbdullaev/kamranAbdullaev/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
-
-## 🎶 Сейчас в плеере
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&bar_color=FF00FF&bar_color_cover=false" />
-  </a>
 </p>
 
 ---
