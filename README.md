@@ -1,3 +1,5 @@
+
+
 <!-- 🚀 Cyberpunk Banner -->
 <p align="center">
   <img src="https://i.ibb.co/F6g7Dbb/cyberpunk-banner.gif" width="100%"/>
@@ -10,10 +12,11 @@
 
 <!-- Typing эффект -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=850&lines=🚀+Создаю+современные+веб-приложения;🖥️+React,+Redux,+Node.js;⚡+Real-time+Apps+с+Socket.IO;🎨+Люблю+чистый+и+красивый+код;🔥+Учусь+новому+каждый+день" 
-    alt="Typing SVG" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Мой+Стек;🚀+Full-Stack+Developer;⚡+React+%7C+Redux+%7C+Node.js+%7C+Real-time+Apps;🎨+Люблю+чистый+и+красивый+код" />
+</p>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVhMG1tM2YzYzhoMmJtcnRzNXRnZjlpZWxxc2Q2ZjE2ZTAxOHV0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="300"/>
 </p>
 
 ---
