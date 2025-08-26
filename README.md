@@ -7,7 +7,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Мой +Стек:;Full-Stack+Developer;React,+Redux,+Node.js;⚡+Real-time+Apps" 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Мой+Стек:;Full-Stack+Developer;React,+Redux,+Node.js;⚡+Real-time+Apps" 
     alt="Typing SVG" 
   />
 </p>
